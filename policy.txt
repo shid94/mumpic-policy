@@ -3,56 +3,115 @@ Privacy Policy for Mumpic
 
 Last Updated: 3/22/2025
 
-1. Introduction
+This Privacy Policy describes our policies on the collection, use and disclosure of your information in connection with your use of our websites, emails, services, platforms, and mobile applications (collectively, “Site” or “Sites”). When used herein, the terms “we”, “us” and “our” refer to Mumpic General Services.
+By visiting this or another Mumpic website displaying this Privacy Policy or a link thereto (a “Website”, or collectively the “Websites”), or by otherwise interacting with mumpic.com, you agree to accept the practices described in this Privacy Policy. This Privacy Policy is further subject to the Mumpic General Services Agreement related to the services you utilize and/or purchase from Mumpic.
+When this Privacy Policy uses the term “personal information,” we mean any data that relates to an identifiable individual, including;
+•	Name
+•	Profile Image
+•	Videos
+•	Address
+•	Payment details
+•	Email address
+•	Telephone number
+•	Location
+•	Date of birth
+•	Age
+•	Billing and payment information
+•	Candidate information (for job applicants)
+•	Other data collected that could directly or indirectly identify you.
+The specific data we collect is described in this policy. Please note that we do not sell your personal data, and only use it for the purposes outlined herein.
+The information We Collect.
 
-Welcome to mumpic ("we", "our", or "us"). This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you use our streaming app and its payment features.
+•	Contact Information.
+We collect and retain personal contact information that you submit to us voluntarily in ordering or otherwise signing up for our products and services or any mailing lists. This includes your name, mailing address, web address, telephone number, and e-mail address. Additionally, we collect contact information provided to us during any communication with customer support (helpdesk), as well as in connection with products and services offered on our Websites.
 
-2. Information We Collect
+•	Financial Information.
+We collect and retain financial and payment information you provide when you order our products and services. For example, when you subscribe to an account we require you to provide a credit card number or mobile money number before we can process that registration.
+•	Account and Order Information.
+We collect and retain information regarding your selection and use of our Sites and Mobile App. This includes your order, billing and renewal history, along with other related transactional and account information.
+•	Access Information.
+We collect and retain information about the device with which you access and use our Sites and Mobile Applications, such as the domain name, Internet Service Provider, browser / phone type and version, pages viewed, information accessed, and the Internet Protocol (IP) address you use to connect to the Internet. 
 
-2.1 Personal Information:
-- When you register for an account or make a payment, we may collect personal information such as your name, email address, billing information, and other relevant details.
+Demographic Information.
+We may collect and store demographic information (such as your zip code, gender, location and age), and use this data to tailor your experience on our websites, ensure you are at least 18 years of age to make purchases, provide content that we think you might be interested in, perform general improvements to the Websites, Mobile Apps, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to such aggregated demographic information that is shared with third parties.
 
-2.2 Usage Information:
-- We gather information about how you use our app, including your viewing history, preferences, and interactions with the app.
+How We Use Your Personal Data.
+•	To Perform Our Contract with You.
+We use this information to perform our contract with you and fulfil your requests, such as:
+•	Sending you requested service information;
+•	Analytics
+•	Marketing
+•	Fulfilling your orders;
+•	Billing for services provided;
+•	Responding to customer service requests, questions and concerns; and
+•	Administering your account.
 
-2.3 Payment Information:
-- When you make a payment, we collect necessary payment details such as credit card information or other payment methods.
+Note that, generally, you may not opt-out of these communications, which are transactional and not promotional in nature. If you do not wish to receive them, you have the option to cancel your services with us or otherwise stop using our Mobile app and Websites.
+We also engage other companies, individuals, and affiliates of Mumpic General Services to perform certain functions and services for you. These third parties could provide functions such as; processing of credit card payments, Google authentication, providing marketing assistance and removal of duplicate information from customer lists.
+•	To Contact You.
 
-3. How We Use Your Information
+If you have given your consent to send you emails, call or SMS marketing, or if you have provided us with your postal address, we will use the personal data you give to us to contact you from time to time. If you register on the Mobile App and Sites, you can choose to provide your consent to receive marketing communications by e-mail, phone call (including use of automated dialing equipment and/or pre-recorded calls), text (SMS) message, social networks or any other means of communication that your device may be capable of receiving. If you do not want to receive postal or electronic communications, you may withdraw your consent at any time, by clicking the link in a communication, or emailing us using the address provided below.
+Email:info@mumpic.com
+Call: +256 750848930
+•	To Protect Our Sites and Our Business.
+ We monitor use of the Sites / Mobile Apps and we use the collected information, including personal data, to pursue our legitimate interests in protecting you, others and the Sites and Mobile Apps by:
+•	identifying fraudulent activities and transactions;
+•	preventing abuse of the Sites and investigating and/or seeking prosecution for any potential threats to or misuse of the Sites;
+•	ensuring compliance with the applicable terms of service and this Privacy Policy;
+•	investigating violations of or enforcing these agreements; and
+•	otherwise protecting the rights and property of Mumpic General Services, its partners, and customers.
+•	To Improve Our Sites and Services.
+In order to pursue our legitimate interest in improving our Mobile Apps and Sites, we also use personal data to conduct research and analysis;
+•	to identify what services, you and other customers like you need;
+•	to better understand how people interact with our websites to provide communications about products which we think will be of interest to you; and
+•	to determine the effectiveness of promotional campaigns and advertising.
+Whenever we process data for these purposes we will ensure that we always keep your personal data rights in high regard and take account of these rights. You have the right to object to this processing if you wish and if so, please click here to update your communication preferences. Please note, if you object this may affect our ability to carry out tasks above for your benefit.
 
-3.1 Provide and Improve Services:
-- We use your information to deliver, personalize, and improve our streaming services.
+How Long We Keep Your Personal Data.
+We keep information as long as needed to provide you with our Mobile Apps and Sites, manage our business, or as otherwise required by law or contract. For example, where you have a contract with us, we will retain your data for the length of the contract, and will further retain that information for a time period consistent with our legal or regulatory responsibilities after the termination or expiration of your services with us in order to allow us to resolve disputes, enforce our relevant Service Agreement, and to adhere to the technical and legal requirements and constraints related to the security, integrity and operation of the Sites. If you have any questions about how long we will keep your specific data, please contact privacy@mumpic.com
+Who We Share Your Personal Data with.
+We provide your personal data to companies that help us with our business activities (e.g. assisting us in Mobile Apps and Site operations, providing customer service, etc.) or that assist us in improving our products, content, services or advertising. These companies are authorized to use your personal data only as necessary to provide these services.
 
-3.2 Process Payments:
-- Your payment information is used to process transactions and ensure secure payments.
+We will also share your personal data:
+•	When we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request. This includes exchanging information with law enforcement, other companies and organizations for fraud protection, credit risk reduction or other similar purposes;
+•	In connection with a corporate change including a merger, acquisition, transfer or sale of assets or in connection to insolvency, bankruptcy or receivership. Information about our users, including customer information, will also need to be disclosed to our legal and financial advisors, investors or potential buyer in some commercial transactions seeking financing, investment or support or funding;
+•	To any other third party where we have your prior informed consent to do so; and
+•	To other entities belonging to Mumpic (i.e. any companies directly or indirectly controlled by Mumpic). A list of our companies is included here including their vendors, suppliers, contractors and agents, which may be involved in the provision of the Website or the content, so that we can better serve you or, simply, to give response to your requests (e.g. when you use contact us forms).
 
-3.3 Communicate with You:
-- We may use your contact information to send important updates, newsletters, and promotional materials.
+Where we transfer your personal information.
+If you utilize our Services from a country other than the country where our servers are located, your personal information may be transferred across international borders, which will only be done when necessary for the performance of our contract with you, when we have your consent to do so, or subject to the appropriate standard contractual clauses. Also, when you call us or initiate a chat, we may provide you with support from one of our global locations outside your country of origin.
 
-4. Sharing Your Information
+How we secure, store and retain your data.
+We follow generally accepted standards to store and protect the personal information we collect, both during transmission and once received and stored, including utilization of encryption where appropriate. We work to protect the security of your financial information during transmission by using Secure Sockets Layer (“SSL”) software, which encrypts the information you input on the Site. However, no method of transmission over the Internet or method of electronic storage is completely secure and we cannot guarantee its absolute security. You can further help to ensure your security by taking a few simple precautions. For instance, it is important to protect against unauthorized access to your computer and to any Mumpic username and password, and to be sure to sign off when you are finished using a shared computer.
 
-4.1 Third-Party Service Providers:
-- We may share your information with third-party service providers to assist in providing and improving our services.
+We retain personal information only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
+•	mandated by law, contract or similar obligations applicable to our business operations;
+•	for preserving, resolving, defending or enforcing our legal/contractual rights; or
+•	needed to maintain adequate and accurate business and financial records.
+If you have any questions about the security or retention of your personal information, you can contact us at privacy@mumpic.com.
+How you can access, update or delete your data.
+To easily access, view, update, delete or port your personal information, or to update your subscription preferences, please sign into your Account and visit “Account Settings.”
+If you make a request to delete your personal information and that data is necessary for the products or services you have purchased, the request will be honoured only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
+If you are unable for any reason to access your Account Settings, you may also contact us by one of the methods described in the “Contact Us” section below.
 
-4.2 Legal Compliance:
-- We may disclose your information if required by law or in response to legal requests.
+MUMPIC GENERAL SERVICES is responsible for the processing of personal information it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. MUMPIC GENERAL SERVICES complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.
+MUMPIC GENERAL SERVICES has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+‘Do Not Track’ notifications.
+Some browsers allow you to automatically notify websites you visit not to track you using a “Do Not Track” signal. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a visitor’s browser.
+Age restrictions.
 
-5. Security
+Our Services are available for purchase only for those over the age of 13. Our Services are not targeted to, intended to be consumed by or designed to entice individuals under the age of 13. If you know of or have reason to believe anyone under the age of 13 has provided us with any personal information, please contact us per the instructions below.
+Non-Discrimination.
+We will not discriminate against you for exercising any of your privacy rights. Unless permitted under applicable laws, we will not:
+•	Deny you goods or services.
+•	Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+•	Provide you a different level or quality of goods or services.
+•	Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+Changes to this policy.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Contact us.
+If you have any questions, concerns, or complaints about our Privacy Policy, or how we handle your personal data, you may contact our Office of the Data Protection Officer by email at privacy@mumpic.com. In the alternative, you may contact us by either of the following means:
+We will respond to all requests, inquiries or concerns within thirty (30) days.
+If you are not satisfied with our response, you may direct privacy complaints to your local data protection authority. MUMPIC GENERAL SERVICES is the data controller for www.mumpic.com
 
-We employ industry-standard security measures to protect your personal information from unauthorized access, disclosure, or alteration.
 
-6. Your Choices
-
-You can manage your privacy settings within the app, including opting out of certain data collection.
-
-7. Children’s Privacy
-
-Our services are not intended for individuals under the age of 13. We do not knowingly collect personal information from children.
-
-8. Updates to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated policy on our website or through the app.
-
-9. Contact Us
-
-If you have any questions or concerns about our Privacy Policy, please contact us at support@flicone.com.
