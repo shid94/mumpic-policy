@@ -35,6 +35,10 @@ We collect and retain information about the device with which you access and use
 Demographic Information.
 We may collect and store demographic information (such as your zip code, gender, location and age), and use this data to tailor your experience on our websites, ensure you are at least 18 years of age to make purchases, provide content that we think you might be interested in, perform general improvements to the Websites, Mobile Apps, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to such aggregated demographic information that is shared with third parties.
 
+Location Data
+Our app does not actively collect or use location data in the background. However, certain third-party services integrated into the app — such as analytics, content delivery networks, and authentication providers (including Firebase, Google Sign-In and Branch.io) may request access to location or other sensitive data to function properly or for analytics purposes.
+We do not use background location access as part of the core functionality of the app. If background location permissions are requested, they are not required for the primary streaming features and will be removed if found unnecessary.
+
 How We Use Your Personal Data.
 •	To Perform Our Contract with You.
 We use this information to perform our contract with you and fulfil your requests, such as:
